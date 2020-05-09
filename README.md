@@ -1,1 +1,0 @@
-# CalculadoraM-ximoCom-nDivisor
